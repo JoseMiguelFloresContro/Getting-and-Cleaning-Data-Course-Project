@@ -118,7 +118,6 @@ After Step3, I merged my data sets and I saved my new data frame in a variable c
 •	fBodyBodyGyroMagMeanFreq               
 •	fBodyBodyGyroJerkMagMean               
 •	fBodyBodyGyroJerkMagStandard.Deviation
-
 •	fBodyBodyGyroJerkMagMeanFreq
 
 
