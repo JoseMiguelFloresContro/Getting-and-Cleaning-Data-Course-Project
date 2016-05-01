@@ -19,7 +19,7 @@ I downloaded the .zip file to my working directory and after that I unzipped it.
 As a second step, I loaded the "features.txt" and "activity_labels.txt" files into R and do some manipulations.
 First, to be able to load those files I needed to change my working directory to the folder called “UCI HAR Dataset”.   After this, I used the read.csv function to read the .txt files I was interested on.
 Then, I converted columns V2 to characters for me to be able to subset those related with the mean() and std() functions. After this transformation, I was now able to use the grep function to get only those features I was interested on (mean and std).  After I had the features I wanted, I edited the names of those features (I did the following changes: -mean()Mean, std()Standard Deviation). I did these changes by using the gsub function.
-###tep 3
+###Step 3
 In this third step we loaded the following files into R:
 
 •	X_train.txt
