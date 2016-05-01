@@ -23,10 +23,15 @@ Then, I converted columns V2 to characters for me to be able to subset those rel
 In this third step we loaded the following files into R:
 
 •	X_train.txt
+
 •	Y_train.txt
+
 •	subject_train.txt
+
 •	X_test.txt
+
 •	Y_test.txt
+
 •	subject_test.txt
 
 After I loaded those files, I took a subset of the “X_train.txt” and “X_test.txt” files, i.e, I just saved the data I was interested on (data containing the features I mentioned previously). 
