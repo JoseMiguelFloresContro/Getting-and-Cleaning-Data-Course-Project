@@ -118,8 +118,18 @@ After Step3, I merged my data sets and I saved my new data frame in a variable c
 •	fBodyBodyGyroMagMeanFreq               
 •	fBodyBodyGyroJerkMagMean               
 •	fBodyBodyGyroJerkMagStandard.Deviation
+
 •	fBodyBodyGyroJerkMagMeanFreq
 
 
 ###Step 5
 As a fifth step we transformed the Activity and Subject to factors for me to be able to create a tidy data set called “tidy.txt” with the average of each variable for each activity and each subject.
+
+Activity Labels:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
